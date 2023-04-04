@@ -1,4 +1,4 @@
-var audio = new Audio("./success-fanfare-trumpets-6185.mp3");
+var audio = new Audio("success-fanfare-trumpets-6185.mp3");
 audio.loop = false; 
 audio.volume = 0.5;
 
